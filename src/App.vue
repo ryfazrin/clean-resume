@@ -11,9 +11,9 @@
   </div>
 </template>
 
-<script setup>
+<script lang="ts" setup>
 import HeaderSection from './components/HeaderSection.vue'
-import ContactLinks from './components/ContactLinks.vue'
+// import ContactLinks from './components/ContactLinks.vue'
 import ExperienceSection from './components/ExperienceSection.vue'
 import ProjectsSection from './components/ProjectsSection.vue'
 import SkillsInterestsSection from './components/SkillsInterestsSection.vue'
