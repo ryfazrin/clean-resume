@@ -1,7 +1,7 @@
 <template>
   <div class="text-center">
-    <h1 class="text-base font-extrabold text-gray-900 tracking-tight">Muhammad Pazrin Andreanor, S.Kom., M.Cs.</h1>
-    <!-- <h1 class="text-base font-extrabold text-gray-900 tracking-tight">MUHAMMAD PAZRIN ANDREANOR</h1> -->
+    <!-- <h1 class="text-base font-extrabold text-gray-900 tracking-tight">Muhammad Pazrin Andreanor, S.Kom., M.Cs.</h1> -->
+    <h1 class="text-base font-extrabold text-gray-900 tracking-tight">MUHAMMAD PAZRIN ANDREANOR</h1>
     <hr />
   </div>
   <ContactLinks />
