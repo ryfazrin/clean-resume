@@ -2,11 +2,10 @@
   <div class="min-h-screen bg-gray-100 flex flex-col items-center py-8">
     <div class="w-full max-w-3xl bg-white rounded-lg shadow-lg p-8">
       <HeaderSection />
-      <ContactLinks />
       <ExperienceSection />
+      <EducationSection />
       <ProjectsSection />
       <SkillsInterestsSection />
-      <EducationSection />
       <CertificationsSection />
     </div>
   </div>
